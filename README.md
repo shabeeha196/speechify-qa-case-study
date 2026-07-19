@@ -49,3 +49,44 @@ speechify-qa-case-study
 ├── screenshots
 └── test-data
 ```
+## 📁 Folder Description
+
+| Folder | Description |
+|--------|-------------|
+| docs | Project documentation |
+| test-plan | Test planning documents |
+| test-scenarios | High-level testing scenarios |
+| test-cases | Detailed manual test cases |
+| bug-reports | Bug reports with severity, priority and reproduction steps |
+| exploratory-testing | Exploratory testing notes |
+| api-testing | API testing scenarios and collections |
+| automation | Playwright automation scripts |
+| screenshots | Evidence and screenshots |
+| test-data | Test data used during testing |
+
+## 💡 Skills Demonstrated
+
+- Manual Testing
+- Functional Testing
+- Test Planning
+- Test Case Design
+- Bug Reporting
+- Exploratory Testing
+- API Testing
+- Playwright Automation
+- Git & GitHub
+- Documentation
+
+## 🚧 Project Status
+
+This project is currently under development.
+
+The repository will be updated progressively with:
+
+- Test Plan
+- Test Scenarios
+- Manual Test Cases
+- Exploratory Testing Reports
+- Bug Reports
+- API Testing
+- Playwright Automation
