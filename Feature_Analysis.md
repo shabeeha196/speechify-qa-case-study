@@ -4,10 +4,44 @@
 
 Text-to-Speech Conversion
 
-## Description
+---
 
-The Text-to-Speech feature allows users to enter or paste text into the application and convert it into spoken audio using different AI voices.
+## Business Requirement
 
-## Goal
+The application should allow users to enter or paste text and convert it into natural-sounding speech using available voices.
 
-To verify that users can successfully convert text into audio while ensuring the feature is reliable, user-friendly, and performs correctly under different conditions.
+---
+
+## Primary Goal
+
+Allow users to listen to written content quickly and accurately.
+
+---
+
+## Actors
+
+- Guest User
+- Registered User
+
+---
+
+## Inputs
+
+- Text
+- Voice Selection
+- Speed Selection
+
+---
+
+## Outputs
+
+- Generated Audio
+- Playback Controls
+
+---
+
+## Assumptions
+
+- User has internet connection.
+- Supported browser is being used.
+- Text entered is within supported limits.
